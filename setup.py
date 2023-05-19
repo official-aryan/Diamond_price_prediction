@@ -10,7 +10,6 @@ def get_requirements(file_path:str)-> List[str]:
        return requirements
 
 setup(
-    
     name="Diamond_price_prediction",
     version="0.0.1",
     author="Aryan",
